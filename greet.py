@@ -1,0 +1,2 @@
+message = "juliet!"
+print(message)
